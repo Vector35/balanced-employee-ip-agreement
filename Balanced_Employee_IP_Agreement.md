@@ -1,6 +1,6 @@
 # Balanced Employee Intellectual Property Agreement 2.0.0
 
-This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is between the person named below and [COMPANY NAME], a [State of Incorporation] corporation ("Company").
+This BALANCED EMPLOYEE INTELLECTUAL PROPERTY AGREEMENT is between the person named below and Vector 35 Inc, a Delaware corporation ("Company").
 
 **What is this?** This is the Company's Intellectual Property Agreement ("Agreement"). If you've worked in the technology space before, there's a good chance that you've run across one or more of these in the past. This document is the official, entire, and exclusive agreement on what intellectual property ("IP") is yours, and what belongs to the Company. "IP" includes without limitation concepts, designs, developments, discoveries, ideas, improvements, inventions, patents, trade secrets, trademarks, copyrights, and works of authorship. In relation to software, IP covers both source code and object code.
 
@@ -39,8 +39,17 @@ Cool? Then, by signing this Agreement, and as a condition of your employment, yo
 8. **Survivorship.** If any terms of this Agreement are found invalid or unenforceable by any court, agency, or arbiter with jurisdiction over this Agreement, the remaining terms will survive with full effect.
 
 
-Print Name: ＿＿＿＿＿＿＿＿＿＿＿＿＿
+Print Name: ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-Sign: ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+Sign: ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
-Date: ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+Date: ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+
+Company Representative: ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿ 
+
+Sign: ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+Date: ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
+
